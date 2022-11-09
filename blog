@@ -1,0 +1,807 @@
+<!DOCTYPE HTML>
+<html class="no-js" lang="en-US">
+    <head>
+		<meta charset="utf-8">
+		<meta http-equiv="x-ua-compatible" content="ie=edge">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+		<!-- <meta name="description" content="আমরা রক্তবন্ধু, রক্তের সম্পর্ক গড়ি ।
+		রক্তবন্ধু স্বেচ্ছায় রক্তদাতাদের জন্য তৈরি একটি ওয়েবসাইট, আপনি ও একজন রক্তবন্ধু হতে আজই রেজিস্ট্রেশন  করুন।"> -->
+		<meta name="keywords" content="রক্তবন্ধু,roktobondhu,blood,blood donate,bd blood donate,roktobondhu.com">
+		<meta name="author" content="ASHIK">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" type="image/x-icon" href="https://roktobondhu.com/assets/img/icon.png" />
+
+<!-- 
+		<meta property="og:url"           content="https://roktobondhu.com" />
+		<meta property="og:type"          content="website" />
+		<meta property="og:title"         content="রক্তবন্ধু" />
+		<meta property="og:description"   content="আমরা রক্তবন্ধু, রক্তের সম্পর্ক গড়ি ।"/>
+		<meta property="og:image"         content="https://roktobondhu.com/appscon.png" />
+
+
+		<meta name="twitter:title" content="রক্তবন্ধু">
+		<meta name="twitter:description" content="আমরা রক্তবন্ধু, রক্তের সম্পর্ক গড়ি ।">
+		<meta name="twitter:image" content="https://roktobondhu.com/appscon.png">
+		<meta name="twitter:card" content="summary_large_image">	 -->
+
+		<link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400;500&display=swap" rel="stylesheet"> 
+
+		<link href="https://fonts.googleapis.com/css2?family=Baloo+Da+2:wght@400;500&display=swap" rel="stylesheet"> 
+
+		<link href="https://fonts.googleapis.com/css2?family=Hind+Siliguri:wght@300;400&display=swap" rel="stylesheet"> 
+
+		<style>
+#wpadminbar #wp-admin-bar-wccp_free_top_button .ab-icon:before {
+	content: "\f160";
+	color: #02CA02;
+	top: 3px;
+}
+#wpadminbar #wp-admin-bar-wccp_free_top_button .ab-icon {
+	transform: rotate(45deg);
+}
+</style>
+	<script type="text/javascript">function theChampLoadEvent(e){var t=window.onload;if(typeof window.onload!="function"){window.onload=e}else{window.onload=function(){t();e()}}}</script>
+		<script type="text/javascript">var theChampDefaultLang = 'en_US', theChampCloseIconPath = 'https://roktobondhu.com/blog/wp-content/plugins/super-socializer/images/close.png';</script>
+		<script>var theChampSiteUrl = 'https://roktobondhu.com/blog', theChampVerified = 0, theChampEmailPopup = 0, heateorSsMoreSharePopupSearchText = 'Search';</script>
+			<script> var theChampFBKey = '', theChampFBLang = 'en_US', theChampFbLikeMycred = 0, theChampSsga = 0, theChampCommentNotification = 0, theChampHeateorFcmRecentComments = 0, theChampFbIosLogin = 0; </script>
+						<script type="text/javascript">var theChampFBCommentUrl = 'https://roktobondhu.com/blog/%e0%a6%ae%e0%a7%80%e0%a6%ae%e0%a7%87%e0%a6%b0-%e0%a7%a7%e0%a7%a6%e0%a6%ae-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8/'; var theChampFBCommentColor = 'light'; var theChampFBCommentNumPosts = ''; var theChampFBCommentWidth = '100%'; var theChampFBCommentOrderby = 'social'; var theChampCommentingTabs = "wordpress,facebook,disqus", theChampGpCommentsUrl = 'https://roktobondhu.com/blog/%e0%a6%ae%e0%a7%80%e0%a6%ae%e0%a7%87%e0%a6%b0-%e0%a7%a7%e0%a7%a6%e0%a6%ae-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8/', theChampDisqusShortname = '', theChampScEnabledTabs = 'wordpress,fb', theChampScLabel = 'Leave a reply', theChampScTabLabels = {"wordpress":"Default Comments (0)","fb":"Facebook Comments","disqus":"Disqus Comments"}, theChampGpCommentsWidth = 0, theChampCommentingId = 'respond'</script>
+						<script> var theChampSharingAjaxUrl = 'https://roktobondhu.com/blog/wp-admin/admin-ajax.php', heateorSsFbMessengerAPI = 'https://www.facebook.com/dialog/send?app_id=595489497242932&display=popup&link=%encoded_post_url%&redirect_uri=%encoded_post_url%',heateorSsWhatsappShareAPI = 'web', heateorSsUrlCountFetched = [], heateorSsSharesText = 'Shares', heateorSsShareText = 'Share', theChampPluginIconPath = 'https://roktobondhu.com/blog/wp-content/plugins/super-socializer/images/logo.png', theChampSaveSharesLocally = 0, theChampHorizontalSharingCountEnable = 0, theChampVerticalSharingCountEnable = 0, theChampSharingOffset = -10, theChampCounterOffset = -10, theChampMobileStickySharingEnabled = 0, heateorSsCopyLinkMessage = "Link copied.";
+		var heateorSsHorSharingShortUrl = "https://roktobondhu.com/blog/%e0%a6%ae%e0%a7%80%e0%a6%ae%e0%a7%87%e0%a6%b0-%e0%a7%a7%e0%a7%a6%e0%a6%ae-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8/";var heateorSsVerticalSharingShortUrl = "https://roktobondhu.com/blog/%e0%a6%ae%e0%a7%80%e0%a6%ae%e0%a7%87%e0%a6%b0-%e0%a7%a7%e0%a7%a6%e0%a6%ae-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8/";		</script>
+			<style type="text/css">.the_champ_horizontal_sharing .the_champ_svg,.heateor_ss_standard_follow_icons_container .the_champ_svg{
+					color: #fff;
+				border-width: 0px;
+		border-style: solid;
+		border-color: transparent;
+	}
+		.the_champ_horizontal_sharing .theChampTCBackground{
+		color:#666;
+	}
+		.the_champ_horizontal_sharing span.the_champ_svg:hover,.heateor_ss_standard_follow_icons_container span.the_champ_svg:hover{
+				border-color: transparent;
+	}
+		.the_champ_vertical_sharing span.the_champ_svg,.heateor_ss_floating_follow_icons_container span.the_champ_svg{
+					color: #fff;
+				border-width: 0px;
+		border-style: solid;
+		border-color: transparent;
+	}
+		.the_champ_vertical_sharing .theChampTCBackground{
+		color:#666;
+	}
+		.the_champ_vertical_sharing span.the_champ_svg:hover,.heateor_ss_floating_follow_icons_container span.the_champ_svg:hover{
+						border-color: transparent;
+		}
+	@media screen and (max-width:783px){.the_champ_vertical_sharing{display:none!important}}</style>
+	<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v18.4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>রক্তবন্ধু - আমরা রক্তবন্ধু, রক্তের সম্পর্ক গড়ি।</title>
+	<meta name="description" content="আমরা রক্তবন্ধু, রক্তের সম্পর্ক গড়ি।" />
+	<link rel="canonical" href="https://roktobondhu.com/blog/" />
+	<link rel="next" href="https://roktobondhu.com/blog/page/2/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="website" />
+	<meta property="og:title" content="রক্তবন্ধু" />
+	<meta property="og:description" content="আমরা রক্তবন্ধু, রক্তের সম্পর্ক গড়ি।" />
+	<meta property="og:url" content="https://roktobondhu.com/blog/" />
+	<meta property="og:site_name" content="রক্তবন্ধু" />
+	<meta property="og:image" content="https://roktobondhu.com/blog/wp-content/uploads/2020/10/thumbnail5.jpg" />
+	<meta property="og:image:width" content="1200" />
+	<meta property="og:image:height" content="630" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://roktobondhu.com/blog/#organization","name":"রক্তবন্ধু","url":"https://roktobondhu.com/blog/","sameAs":["http://m.me/roktobondhuCircle"],"logo":{"@type":"ImageObject","@id":"https://roktobondhu.com/blog/#logo","inLanguage":"en-US","url":"https://roktobondhu.com/blog/wp-content/uploads/2020/07/logo-2.png","contentUrl":"https://roktobondhu.com/blog/wp-content/uploads/2020/07/logo-2.png","width":2048,"height":447,"caption":"রক্তবন্ধু"},"image":{"@id":"https://roktobondhu.com/blog/#logo"}},{"@type":"WebSite","@id":"https://roktobondhu.com/blog/#website","url":"https://roktobondhu.com/blog/","name":"রক্তবন্ধু","description":"আমরা রক্তবন্ধু, রক্তের সম্পর্ক গড়ি।","publisher":{"@id":"https://roktobondhu.com/blog/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://roktobondhu.com/blog/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"https://roktobondhu.com/blog/#webpage","url":"https://roktobondhu.com/blog/","name":"রক্তবন্ধু - আমরা রক্তবন্ধু, রক্তের সম্পর্ক গড়ি।","isPartOf":{"@id":"https://roktobondhu.com/blog/#website"},"about":{"@id":"https://roktobondhu.com/blog/#organization"},"description":"আমরা রক্তবন্ধু, রক্তের সম্পর্ক গড়ি।","breadcrumb":{"@id":"https://roktobondhu.com/blog/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://roktobondhu.com/blog/"]}]},{"@type":"BreadcrumbList","@id":"https://roktobondhu.com/blog/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.googletagmanager.com' />
+<link rel='dns-prefetch' href='//use.fontawesome.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/roktobondhu.com\/blog\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.4"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+</style>
+<link rel='stylesheet' id='bootstrap-css-css'  href='https://roktobondhu.com/blog/wp-content/themes/roktobondhu/assets/css/bootstrap.min.css?ver=5.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='font-awesome-cdn-css'  href='https://use.fontawesome.com/releases/v5.6.3/css/all.css?ver=5.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='normalize-css'  href='https://roktobondhu.com/blog/wp-content/themes/roktobondhu/assets/css/normalize.css?ver=5.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='gfonts-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A300%2C400%2C500%2C700%2C900&#038;display=swap&#038;ver=5.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='main-stylecss-css'  href='https://roktobondhu.com/blog/wp-content/themes/roktobondhu/assets/css/style.css?ver=5.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='style-css'  href='https://roktobondhu.com/blog/wp-content/themes/roktobondhu/style.css?ver=5.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='https://roktobondhu.com/blog/wp-content/themes/roktobondhu/assets/css/responsive.css?ver=5.9.4' type='text/css' media='all' />
+<link rel='stylesheet' id='the_champ_frontend_css-css'  href='https://roktobondhu.com/blog/wp-content/plugins/super-socializer/css/front.css?ver=7.13.30' type='text/css' media='all' />
+<script type='text/javascript' src='https://roktobondhu.com/blog/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script type='text/javascript' src='https://roktobondhu.com/blog/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+
+<!-- Google Analytics snippet added by Site Kit -->
+<script type='text/javascript' src='https://www.googletagmanager.com/gtag/js?id=UA-183955765-1' id='google_gtagjs-js' async></script>
+<script type='text/javascript' id='google_gtagjs-js-after'>
+window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
+gtag('set', 'linker', {"domains":["roktobondhu.com"]} );
+gtag("js", new Date());
+gtag("set", "developer_id.dZTNiMT", true);
+gtag("config", "UA-183955765-1", {"anonymize_ip":true});
+</script>
+
+<!-- End Google Analytics snippet added by Site Kit -->
+<link rel="https://api.w.org/" href="https://roktobondhu.com/blog/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://roktobondhu.com/blog/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://roktobondhu.com/blog/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.9.4" />
+<meta name="generator" content="Site Kit by Google 1.70.0" /><script id="wpcp_disable_selection" type="text/javascript">
+var image_save_msg='You are not allowed to save images!';
+	var no_menu_msg='Context Menu disabled!';
+	var smessage = "roktobondhu.com";
+
+function disableEnterKey(e)
+{
+	var elemtype = e.target.tagName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	if (elemtype == "TEXT" || elemtype == "TEXTAREA" || elemtype == "INPUT" || elemtype == "PASSWORD" || elemtype == "SELECT" || elemtype == "OPTION" || elemtype == "EMBED")
+	{
+		elemtype = 'TEXT';
+	}
+	
+	if (e.ctrlKey){
+     var key;
+     if(window.event)
+          key = window.event.keyCode;     //IE
+     else
+          key = e.which;     //firefox (97)
+    //if (key != 17) alert(key);
+     if (elemtype!= 'TEXT' && (key == 97 || key == 65 || key == 67 || key == 99 || key == 88 || key == 120 || key == 26 || key == 85  || key == 86 || key == 83 || key == 43 || key == 73))
+     {
+		if(wccp_free_iscontenteditable(e)) return true;
+		show_wpcp_message('You are not allowed to copy content or view source');
+		return false;
+     }else
+     	return true;
+     }
+}
+
+
+/*For contenteditable tags*/
+function wccp_free_iscontenteditable(e)
+{
+	var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+  	
+	var target = e.target || e.srcElement;
+
+	var elemtype = e.target.nodeName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	var iscontenteditable = "false";
+		
+	if(typeof target.getAttribute!="undefined" ) iscontenteditable = target.getAttribute("contenteditable"); // Return true or false as string
+	
+	var iscontenteditable2 = false;
+	
+	if(typeof target.isContentEditable!="undefined" ) iscontenteditable2 = target.isContentEditable; // Return true or false as boolean
+
+	if(target.parentElement.isContentEditable) iscontenteditable2 = true;
+	
+	if (iscontenteditable == "true" || iscontenteditable2 == true)
+	{
+		if(typeof target.style!="undefined" ) target.style.cursor = "text";
+		
+		return true;
+	}
+}
+
+////////////////////////////////////
+function disable_copy(e)
+{	
+	var e = e || window.event; // also there is no e.target property in IE. instead IE uses window.event.srcElement
+	
+	var elemtype = e.target.tagName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	if (elemtype == "TEXT" || elemtype == "TEXTAREA" || elemtype == "INPUT" || elemtype == "PASSWORD" || elemtype == "SELECT" || elemtype == "OPTION" || elemtype == "EMBED")
+	{
+		elemtype = 'TEXT';
+	}
+	
+	if(wccp_free_iscontenteditable(e)) return true;
+	
+	var isSafari = /Safari/.test(navigator.userAgent) && /Apple Computer/.test(navigator.vendor);
+	
+	var checker_IMG = '';
+	if (elemtype == "IMG" && checker_IMG == 'checked' && e.detail >= 2) {show_wpcp_message(alertMsg_IMG);return false;}
+	if (elemtype != "TEXT")
+	{
+		if (smessage !== "" && e.detail == 2)
+			show_wpcp_message(smessage);
+		
+		if (isSafari)
+			return true;
+		else
+			return false;
+	}	
+}
+
+//////////////////////////////////////////
+function disable_copy_ie()
+{
+	var e = e || window.event;
+	var elemtype = window.event.srcElement.nodeName;
+	elemtype = elemtype.toUpperCase();
+	if(wccp_free_iscontenteditable(e)) return true;
+	if (elemtype == "IMG") {show_wpcp_message(alertMsg_IMG);return false;}
+	if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT" && elemtype != "OPTION" && elemtype != "EMBED")
+	{
+		return false;
+	}
+}	
+function reEnable()
+{
+	return true;
+}
+document.onkeydown = disableEnterKey;
+document.onselectstart = disable_copy_ie;
+if(navigator.userAgent.indexOf('MSIE')==-1)
+{
+	document.onmousedown = disable_copy;
+	document.onclick = reEnable;
+}
+function disableSelection(target)
+{
+    //For IE This code will work
+    if (typeof target.onselectstart!="undefined")
+    target.onselectstart = disable_copy_ie;
+    
+    //For Firefox This code will work
+    else if (typeof target.style.MozUserSelect!="undefined")
+    {target.style.MozUserSelect="none";}
+    
+    //All other  (ie: Opera) This code will work
+    else
+    target.onmousedown=function(){return false}
+    target.style.cursor = "default";
+}
+//Calling the JS function directly just after body load
+window.onload = function(){disableSelection(document.body);};
+
+//////////////////special for safari Start////////////////
+var onlongtouch;
+var timer;
+var touchduration = 1000; //length of time we want the user to touch before we do something
+
+var elemtype = "";
+function touchstart(e) {
+	var e = e || window.event;
+  // also there is no e.target property in IE.
+  // instead IE uses window.event.srcElement
+  	var target = e.target || e.srcElement;
+	
+	elemtype = window.event.srcElement.nodeName;
+	
+	elemtype = elemtype.toUpperCase();
+	
+	if(!wccp_pro_is_passive()) e.preventDefault();
+	if (!timer) {
+		timer = setTimeout(onlongtouch, touchduration);
+	}
+}
+
+function touchend() {
+    //stops short touches from firing the event
+    if (timer) {
+        clearTimeout(timer);
+        timer = null;
+    }
+	onlongtouch();
+}
+
+onlongtouch = function(e) { //this will clear the current selection if anything selected
+	
+	if (elemtype != "TEXT" && elemtype != "TEXTAREA" && elemtype != "INPUT" && elemtype != "PASSWORD" && elemtype != "SELECT" && elemtype != "EMBED" && elemtype != "OPTION")	
+	{
+		if (window.getSelection) {
+			if (window.getSelection().empty) {  // Chrome
+			window.getSelection().empty();
+			} else if (window.getSelection().removeAllRanges) {  // Firefox
+			window.getSelection().removeAllRanges();
+			}
+		} else if (document.selection) {  // IE?
+			document.selection.empty();
+		}
+		return false;
+	}
+};
+
+document.addEventListener("DOMContentLoaded", function(event) { 
+    window.addEventListener("touchstart", touchstart, false);
+    window.addEventListener("touchend", touchend, false);
+});
+
+function wccp_pro_is_passive() {
+
+  var cold = false,
+  hike = function() {};
+
+  try {
+	  const object1 = {};
+  var aid = Object.defineProperty(object1, 'passive', {
+  get() {cold = true}
+  });
+  window.addEventListener('test', hike, aid);
+  window.removeEventListener('test', hike, aid);
+  } catch (e) {}
+
+  return cold;
+}
+/*special for safari End*/
+</script>
+<script id="wpcp_disable_Right_Click" type="text/javascript">
+document.ondragstart = function() { return false;}
+	function nocontext(e) {
+	   return false;
+	}
+	document.oncontextmenu = nocontext;
+</script>
+<style>
+.unselectable
+{
+-moz-user-select:none;
+-webkit-user-select:none;
+cursor: default;
+}
+html
+{
+-webkit-touch-callout: none;
+-webkit-user-select: none;
+-khtml-user-select: none;
+-moz-user-select: none;
+-ms-user-select: none;
+user-select: none;
+-webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+</style>
+<script id="wpcp_css_disable_selection" type="text/javascript">
+var e = document.getElementsByTagName('body')[0];
+if(e)
+{
+	e.setAttribute('unselectable',on);
+}
+</script>
+<meta name="google-site-verification" content="rWMytGtCUlstOCLZ3PRsXXSbp59hvT-_wPSFNwGI58M">
+<!-- Google AdSense snippet added by Site Kit -->
+<meta name="google-adsense-platform-account" content="ca-host-pub-2644536267352236">
+<meta name="google-adsense-platform-domain" content="sitekit.withgoogle.com">
+<!-- End Google AdSense snippet added by Site Kit -->
+
+<!-- Google Tag Manager snippet added by Site Kit -->
+<script type="text/javascript">
+			( function( w, d, s, l, i ) {
+				w[l] = w[l] || [];
+				w[l].push( {'gtm.start': new Date().getTime(), event: 'gtm.js'} );
+				var f = d.getElementsByTagName( s )[0],
+					j = d.createElement( s ), dl = l != 'dataLayer' ? '&l=' + l : '';
+				j.async = true;
+				j.src = 'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+				f.parentNode.insertBefore( j, f );
+			} )( window, document, 'script', 'dataLayer', 'GTM-TLXG9B8' );
+			
+</script>
+
+<!-- End Google Tag Manager snippet added by Site Kit -->
+		
+		<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-TLXG9B8');</script>
+<!-- End Google Tag Manager -->
+		
+		<script data-ad-client="ca-pub-4331100589850935" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+		
+    </head>
+		<body>
+			
+			<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TLXG9B8"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+			
+			
+        <!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+		
+		<!-- Start Preloader Area -->
+		<!-- <div id="preloader"></div> -->
+		<!-- End Preloader Area -->
+		<div class="full-main">
+		<div class="main-area">
+		<!-- Start Header Area -->
+		<section class="header-area">
+			<div class="container">
+				<div class="row">
+					<div class="col-xl-4 col-md-4">
+						<div class="logo_area">
+							<h2> <a href="https://roktobondhu.com/blog">
+								<!-- <img src="assets/images/logo.png" alt="" /> <span>রক্তবন্ধু</span>   -->
+								<img src="https://roktobondhu.com/blog/wp-content/uploads/2020/07/logo-2.png" alt="" />
+							</a></h2>
+						</div>
+						<div class="nav_icon"> 
+							<!-- <a class="nav-bars" href="#"><i class="fas fa-bars"></i></a> -->
+							<a class="nav-bars" href="#">Menu</a>
+						</div>
+					</div>
+					<div class="col-xl-8 col-md-8"> 
+						<div class="header_menu_area"> 
+							<div class="menu-main-menu-container"><ul id="menu-main-menu" class="menu"><li id="menu-item-11" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-11"><a href="/blog" aria-current="page">ব্লগ</a></li>
+<li id="menu-item-12" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12"><a href="https://roktobondhu.com">রক্তবন্ধু খুঁজুন</a></li>
+<li id="menu-item-55" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-55"><a href="https://roktobondhu.com/blog/category/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%ae%e0%a7%8d%e0%a6%aa%e0%a7%87%e0%a6%87%e0%a6%a8-%e0%a6%a8%e0%a6%bf%e0%a6%89%e0%a6%9c/">ক্যাম্পেইন নিউজ</a></li>
+<li id="menu-item-56" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-56"><a href="https://roktobondhu.com/blog/category/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a5%e0%a6%ae-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8/">প্রথম রক্তদান</a></li>
+<li id="menu-item-58" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-58"><a href="https://roktobondhu.com/blog/category/%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%85%e0%a6%ad%e0%a6%bf%e0%a6%9c%e0%a7%8d%e0%a6%9e%e0%a6%a4%e0%a6%be/">রক্তদানের অভিজ্ঞতা</a></li>
+<li id="menu-item-59" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-59"><a href="https://roktobondhu.com/blog/category/%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%97%e0%a6%b2%e0%a7%8d%e0%a6%aa/">রক্তদানের গল্প</a></li>
+<li id="menu-item-60" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-60"><a href="https://roktobondhu.com/blog/category/%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%ac%e0%a6%a8%e0%a7%8d%e0%a6%a7%e0%a7%81-%e0%a6%97%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%be%e0%a6%b0%e0%a6%bf/">রক্তবন্ধু গ্যালারি</a></li>
+</ul></div>						</div>
+					</div>
+				</div>
+			</div>
+		</section>		
+		<!-- End Header Area -->
+    <div class="posts-area">
+        <div class="container">
+            <div class="section-title text-center mb-75">
+                <h2>রক্তবন্ধু ব্লগ</h2>
+            </div>
+            <div class="row">
+				            	<div class="col-lg-3 col-md-4 col-sm-6">
+            		<a href="https://roktobondhu.com/blog/category/%e0%a6%85%e0%a6%a8%e0%a7%81%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a7%87%e0%a6%b0%e0%a6%a3%e0%a6%be/">
+            		<div class="single-cats">
+            			<h3>অনুপ্রেরণা</h3>
+            		</div>
+            		</a>
+            	</div>
+				            	<div class="col-lg-3 col-md-4 col-sm-6">
+            		<a href="https://roktobondhu.com/blog/category/%e0%a6%95%e0%a6%ac%e0%a6%bf%e0%a6%a4%e0%a6%be/">
+            		<div class="single-cats">
+            			<h3>কবিতা</h3>
+            		</div>
+            		</a>
+            	</div>
+				            	<div class="col-lg-3 col-md-4 col-sm-6">
+            		<a href="https://roktobondhu.com/blog/category/%e0%a6%95%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%ae%e0%a7%8d%e0%a6%aa%e0%a7%87%e0%a6%87%e0%a6%a8-%e0%a6%a8%e0%a6%bf%e0%a6%89%e0%a6%9c/">
+            		<div class="single-cats">
+            			<h3>ক্যাম্পেইন নিউজ</h3>
+            		</div>
+            		</a>
+            	</div>
+				            	<div class="col-lg-3 col-md-4 col-sm-6">
+            		<a href="https://roktobondhu.com/blog/category/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a5%e0%a6%ae-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8/">
+            		<div class="single-cats">
+            			<h3>প্রথম রক্তদান</h3>
+            		</div>
+            		</a>
+            	</div>
+				            	<div class="col-lg-3 col-md-4 col-sm-6">
+            		<a href="https://roktobondhu.com/blog/category/%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a4%e0%a6%a5%e0%a7%8d%e0%a6%af/">
+            		<div class="single-cats">
+            			<h3>রক্ততথ্য</h3>
+            		</div>
+            		</a>
+            	</div>
+				            	<div class="col-lg-3 col-md-4 col-sm-6">
+            		<a href="https://roktobondhu.com/blog/category/%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%85%e0%a6%ad%e0%a6%bf%e0%a6%9c%e0%a7%8d%e0%a6%9e%e0%a6%a4%e0%a6%be/">
+            		<div class="single-cats">
+            			<h3>রক্তদানের অভিজ্ঞতা</h3>
+            		</div>
+            		</a>
+            	</div>
+				            	<div class="col-lg-3 col-md-4 col-sm-6">
+            		<a href="https://roktobondhu.com/blog/category/%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%97%e0%a6%b2%e0%a7%8d%e0%a6%aa/">
+            		<div class="single-cats">
+            			<h3>রক্তদানের গল্প</h3>
+            		</div>
+            		</a>
+            	</div>
+				            	<div class="col-lg-3 col-md-4 col-sm-6">
+            		<a href="https://roktobondhu.com/blog/category/%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%ac%e0%a6%a8%e0%a7%8d%e0%a6%a7%e0%a7%81-%e0%a6%97%e0%a7%8d%e0%a6%af%e0%a6%be%e0%a6%b2%e0%a6%be%e0%a6%b0%e0%a6%bf/">
+            		<div class="single-cats">
+            			<h3>রক্তবন্ধু গ্যালারি</h3>
+            		</div>
+            		</a>
+            	</div>
+				            	<div class="col-lg-3 col-md-4 col-sm-6">
+            		<a href="https://roktobondhu.com/blog/category/%e0%a6%b8%e0%a6%82%e0%a6%ac%e0%a6%be%e0%a6%a6/">
+            		<div class="single-cats">
+            			<h3>সংবাদ</h3>
+            		</div>
+            		</a>
+            	</div>
+				            	
+            </div>
+
+            <div class="section-title text-center section-title-area">
+                <h2>সর্বশেষ পোস্ট সমূহ</h2>
+            </div>
+
+            <div class="row posts_row">
+            	                <div class="col-lg-4 col-md-6">
+                    <div class="single-causes mb-30">
+                        <a href="https://roktobondhu.com/blog/%e0%a6%ae%e0%a7%80%e0%a6%ae%e0%a7%87%e0%a6%b0-%e0%a7%a7%e0%a7%a6%e0%a6%ae-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8/">
+                        	<img width="1734" height="910" src="https://roktobondhu.com/blog/wp-content/uploads/2022/09/mim-Panchagarh-.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" srcset="https://roktobondhu.com/blog/wp-content/uploads/2022/09/mim-Panchagarh-.jpg 1734w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/mim-Panchagarh--300x157.jpg 300w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/mim-Panchagarh--1024x537.jpg 1024w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/mim-Panchagarh--768x403.jpg 768w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/mim-Panchagarh--1536x806.jpg 1536w" sizes="(max-width: 1734px) 100vw, 1734px" />                        </a>
+                        <div class="causes-info">
+                            <div class="bcontent">
+                                <h3><a href="https://roktobondhu.com/blog/%e0%a6%ae%e0%a7%80%e0%a6%ae%e0%a7%87%e0%a6%b0-%e0%a7%a7%e0%a7%a6%e0%a6%ae-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8/">দোয়া করবেন যেন ৪ মাস পরপর দিতে পারি</a></h3>
+                                <p class="post_date">Author: রক্তবন্ধু |  29 Sep 2022</p>
+                                <p>আসসালামু আলাইকুম। আমি সর্বশেষ ৪ এপ্রিল ২০২২ তারিখে রক্ত দিই এবং আমি প্রতি ৪ মাস পর পর রক্ত দিই। এইবার একটু দেরিতে হয়ে গেলো...</p>
+                            </div>
+                            <a class="button theme-bg" href="https://roktobondhu.com/blog/%e0%a6%ae%e0%a7%80%e0%a6%ae%e0%a7%87%e0%a6%b0-%e0%a7%a7%e0%a7%a6%e0%a6%ae-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8/">বিস্তারিত...</a>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-lg-4 col-md-6">
+                    <div class="single-causes mb-30">
+                        <a href="https://roktobondhu.com/blog/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a5%e0%a6%ae-%e0%a6%aa%e0%a7%8d%e0%a6%b2%e0%a6%be%e0%a6%9f%e0%a6%bf%e0%a6%b2%e0%a7%87%e0%a6%9f-%e0%a6%a6%e0%a6%bf%e0%a6%9a%e0%a7%8d%e0%a6%9b%e0%a6%bf/">
+                        	<img width="2040" height="1071" src="https://roktobondhu.com/blog/wp-content/uploads/2022/09/প্লাটিলেট-চট্টগ্রাম-.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://roktobondhu.com/blog/wp-content/uploads/2022/09/প্লাটিলেট-চট্টগ্রাম-.jpg 2040w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/প্লাটিলেট-চট্টগ্রাম--300x158.jpg 300w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/প্লাটিলেট-চট্টগ্রাম--1024x538.jpg 1024w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/প্লাটিলেট-চট্টগ্রাম--768x403.jpg 768w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/প্লাটিলেট-চট্টগ্রাম--1536x806.jpg 1536w" sizes="(max-width: 2040px) 100vw, 2040px" />                        </a>
+                        <div class="causes-info">
+                            <div class="bcontent">
+                                <h3><a href="https://roktobondhu.com/blog/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a5%e0%a6%ae-%e0%a6%aa%e0%a7%8d%e0%a6%b2%e0%a6%be%e0%a6%9f%e0%a6%bf%e0%a6%b2%e0%a7%87%e0%a6%9f-%e0%a6%a6%e0%a6%bf%e0%a6%9a%e0%a7%8d%e0%a6%9b%e0%a6%bf/">প্রথম প্লাটিলেট দিচ্ছি, যেন বিয়ের অনুভূতি!</a></h3>
+                                <p class="post_date">Author: রক্তবন্ধু |  20 Sep 2022</p>
+                                <p>১ম প্লাটিলেট দিয়ে আমার জীবনে বিয়ে করার মতো আনন্দ লাগতেছে 😂 হাস্যকর মনে হলেও আমার কি করার? আমার এমন অনুভূতি হয়েছে! আমার কি দোষ!!...</p>
+                            </div>
+                            <a class="button theme-bg" href="https://roktobondhu.com/blog/%e0%a6%aa%e0%a7%8d%e0%a6%b0%e0%a6%a5%e0%a6%ae-%e0%a6%aa%e0%a7%8d%e0%a6%b2%e0%a6%be%e0%a6%9f%e0%a6%bf%e0%a6%b2%e0%a7%87%e0%a6%9f-%e0%a6%a6%e0%a6%bf%e0%a6%9a%e0%a7%8d%e0%a6%9b%e0%a6%bf/">বিস্তারিত...</a>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-lg-4 col-md-6">
+                    <div class="single-causes mb-30">
+                        <a href="https://roktobondhu.com/blog/%e0%a6%87%e0%a6%9a%e0%a7%8d%e0%a6%9b%e0%a7%87-%e0%a6%aa%e0%a7%82%e0%a6%b0%e0%a6%a3-%e0%a6%93-%e0%a7%a7%e0%a6%ae-%e0%a6%aa%e0%a7%8d%e0%a6%b2%e0%a6%be%e0%a6%9f%e0%a6%bf%e0%a6%b2%e0%a7%87%e0%a6%9f/">
+                        	<img width="1372" height="720" src="https://roktobondhu.com/blog/wp-content/uploads/2022/09/Abu-Hasan-babu-.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://roktobondhu.com/blog/wp-content/uploads/2022/09/Abu-Hasan-babu-.jpg 1372w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/Abu-Hasan-babu--300x157.jpg 300w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/Abu-Hasan-babu--1024x537.jpg 1024w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/Abu-Hasan-babu--768x403.jpg 768w" sizes="(max-width: 1372px) 100vw, 1372px" />                        </a>
+                        <div class="causes-info">
+                            <div class="bcontent">
+                                <h3><a href="https://roktobondhu.com/blog/%e0%a6%87%e0%a6%9a%e0%a7%8d%e0%a6%9b%e0%a7%87-%e0%a6%aa%e0%a7%82%e0%a6%b0%e0%a6%a3-%e0%a6%93-%e0%a7%a7%e0%a6%ae-%e0%a6%aa%e0%a7%8d%e0%a6%b2%e0%a6%be%e0%a6%9f%e0%a6%bf%e0%a6%b2%e0%a7%87%e0%a6%9f/">ইচ্ছে পূরণ ও প্রথম প্লাটিলেট দানের গল্প</a></h3>
+                                <p class="post_date">Author: রক্তবন্ধু |  16 Sep 2022</p>
+                                <p>প্রথমবার প্লাটিলেট দানের গল্প, অভিজ্ঞতা ও অনুভূতি ইচ্ছে ছিলো অনেক দিন থেকেই প্লাটিলেট দেয়ার। প্লাটিলেট ডোনেট এর ছবি দেখি ফেইসবুকে। এই জিনিসটার অভিজ্ঞতা নিতে...</p>
+                            </div>
+                            <a class="button theme-bg" href="https://roktobondhu.com/blog/%e0%a6%87%e0%a6%9a%e0%a7%8d%e0%a6%9b%e0%a7%87-%e0%a6%aa%e0%a7%82%e0%a6%b0%e0%a6%a3-%e0%a6%93-%e0%a7%a7%e0%a6%ae-%e0%a6%aa%e0%a7%8d%e0%a6%b2%e0%a6%be%e0%a6%9f%e0%a6%bf%e0%a6%b2%e0%a7%87%e0%a6%9f/">বিস্তারিত...</a>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-lg-4 col-md-6">
+                    <div class="single-causes mb-30">
+                        <a href="https://roktobondhu.com/blog/%e0%a7%a7%e0%a7%ab-%e0%a6%a4%e0%a6%ae-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%85%e0%a6%ad%e0%a6%bf%e0%a6%9c%e0%a7%8d%e0%a6%9e%e0%a6%a4%e0%a6%be/">
+                        	<img width="1372" height="720" src="https://roktobondhu.com/blog/wp-content/uploads/2022/09/Rabbi-Emon-B-roktobondhu-Panchagarh-.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://roktobondhu.com/blog/wp-content/uploads/2022/09/Rabbi-Emon-B-roktobondhu-Panchagarh-.jpg 1372w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/Rabbi-Emon-B-roktobondhu-Panchagarh--300x157.jpg 300w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/Rabbi-Emon-B-roktobondhu-Panchagarh--1024x537.jpg 1024w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/Rabbi-Emon-B-roktobondhu-Panchagarh--768x403.jpg 768w" sizes="(max-width: 1372px) 100vw, 1372px" />                        </a>
+                        <div class="causes-info">
+                            <div class="bcontent">
+                                <h3><a href="https://roktobondhu.com/blog/%e0%a7%a7%e0%a7%ab-%e0%a6%a4%e0%a6%ae-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%85%e0%a6%ad%e0%a6%bf%e0%a6%9c%e0%a7%8d%e0%a6%9e%e0%a6%a4%e0%a6%be/">১৫ তম রক্তদানের অভিজ্ঞতা</a></h3>
+                                <p class="post_date">Author: রক্তবন্ধু |  11 Sep 2022</p>
+                                <p>সময়টা বিকাল ৫ টা বেজে ১২ মিনিট। বাসায় থাকলেও দিনের বেলায় আমি খুব কম ঘুমাই, তাই কাজ শেষে শুয়েই ছিলাম। হঠাৎ বান্ধবীর ম্যাসেজ- বান্ধবী-...</p>
+                            </div>
+                            <a class="button theme-bg" href="https://roktobondhu.com/blog/%e0%a7%a7%e0%a7%ab-%e0%a6%a4%e0%a6%ae-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%85%e0%a6%ad%e0%a6%bf%e0%a6%9c%e0%a7%8d%e0%a6%9e%e0%a6%a4%e0%a6%be/">বিস্তারিত...</a>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-lg-4 col-md-6">
+                    <div class="single-causes mb-30">
+                        <a href="https://roktobondhu.com/blog/%e0%a6%a4%e0%a7%83%e0%a6%a4%e0%a7%80%e0%a7%9f-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%85%e0%a6%a8%e0%a7%81%e0%a6%ad%e0%a7%82%e0%a6%a4%e0%a6%bf/">
+                        	<img width="1836" height="964" src="https://roktobondhu.com/blog/wp-content/uploads/2022/09/আকরাম.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://roktobondhu.com/blog/wp-content/uploads/2022/09/আকরাম.jpg 1836w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/আকরাম-300x158.jpg 300w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/আকরাম-1024x538.jpg 1024w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/আকরাম-768x403.jpg 768w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/আকরাম-1536x806.jpg 1536w" sizes="(max-width: 1836px) 100vw, 1836px" />                        </a>
+                        <div class="causes-info">
+                            <div class="bcontent">
+                                <h3><a href="https://roktobondhu.com/blog/%e0%a6%a4%e0%a7%83%e0%a6%a4%e0%a7%80%e0%a7%9f-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%85%e0%a6%a8%e0%a7%81%e0%a6%ad%e0%a7%82%e0%a6%a4%e0%a6%bf/">তৃতীয় রক্তদানের অনুভূতি</a></h3>
+                                <p class="post_date">Author: রক্তবন্ধু |  11 Sep 2022</p>
+                                <p>আসসালামু আলাইকুম! আমার তৃতীয় রক্তদানের ছোট্ট একটি ঘটনা যেটি আমার জীবনে মনে রাখার মতো একটি ঘটনা। সেদিন ছিলো ১২'ই আগস্ট ২০২১ (বৃহস্পতিবার)। আম্মুকে নিয়ে...</p>
+                            </div>
+                            <a class="button theme-bg" href="https://roktobondhu.com/blog/%e0%a6%a4%e0%a7%83%e0%a6%a4%e0%a7%80%e0%a7%9f-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4%e0%a6%a6%e0%a6%be%e0%a6%a8%e0%a7%87%e0%a6%b0-%e0%a6%85%e0%a6%a8%e0%a7%81%e0%a6%ad%e0%a7%82%e0%a6%a4%e0%a6%bf/">বিস্তারিত...</a>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-lg-4 col-md-6">
+                    <div class="single-causes mb-30">
+                        <a href="https://roktobondhu.com/blog/%e0%a6%b8%e0%a7%8b%e0%a6%a8%e0%a6%be%e0%a6%b2%e0%a6%bf-%e0%a6%b9%e0%a6%be%e0%a6%a4%e0%a7%87%e0%a6%b0-%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a6%ac/">
+                        	<img width="1371" height="720" src="https://roktobondhu.com/blog/wp-content/uploads/2022/09/golden-arm.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://roktobondhu.com/blog/wp-content/uploads/2022/09/golden-arm.jpg 1371w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/golden-arm-300x158.jpg 300w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/golden-arm-1024x538.jpg 1024w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/golden-arm-768x403.jpg 768w" sizes="(max-width: 1371px) 100vw, 1371px" />                        </a>
+                        <div class="causes-info">
+                            <div class="bcontent">
+                                <h3><a href="https://roktobondhu.com/blog/%e0%a6%b8%e0%a7%8b%e0%a6%a8%e0%a6%be%e0%a6%b2%e0%a6%bf-%e0%a6%b9%e0%a6%be%e0%a6%a4%e0%a7%87%e0%a6%b0-%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a6%ac/">সোনালি হাতের মানব (ভিডিও সহ)</a></h3>
+                                <p class="post_date">Author: রক্তবন্ধু |  11 Sep 2022</p>
+                                <p>জেমস ক্রিস্টোফার হ্যারিসন Man with the Golden Arm জেমস হ্যারিসন। জন্ম অস্ট্রেলিয়া, ১৯৪০। মাত্র ১৪ বছর বয়সে ভয়ংকর অসুস্থ হয়ে ৩ মাস হাসপাতালের বেডে...</p>
+                            </div>
+                            <a class="button theme-bg" href="https://roktobondhu.com/blog/%e0%a6%b8%e0%a7%8b%e0%a6%a8%e0%a6%be%e0%a6%b2%e0%a6%bf-%e0%a6%b9%e0%a6%be%e0%a6%a4%e0%a7%87%e0%a6%b0-%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a6%ac/">বিস্তারিত...</a>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-lg-4 col-md-6">
+                    <div class="single-causes mb-30">
+                        <a href="https://roktobondhu.com/blog/golden-blood-reserved-for-10-years/">
+                        	<img width="1371" height="720" src="https://roktobondhu.com/blog/wp-content/uploads/2022/09/Golden-blood-গোল্ডেন-ব্লাড-রক্তবন্ধু.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://roktobondhu.com/blog/wp-content/uploads/2022/09/Golden-blood-গোল্ডেন-ব্লাড-রক্তবন্ধু.jpg 1371w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/Golden-blood-গোল্ডেন-ব্লাড-রক্তবন্ধু-300x158.jpg 300w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/Golden-blood-গোল্ডেন-ব্লাড-রক্তবন্ধু-1024x538.jpg 1024w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/Golden-blood-গোল্ডেন-ব্লাড-রক্তবন্ধু-768x403.jpg 768w" sizes="(max-width: 1371px) 100vw, 1371px" />                        </a>
+                        <div class="causes-info">
+                            <div class="bcontent">
+                                <h3><a href="https://roktobondhu.com/blog/golden-blood-reserved-for-10-years/">১০ বছরের জন্য সংরক্ষণ করা হলো সোনালি রক্ত</a></h3>
+                                <p class="post_date">Author: রক্তবন্ধু |  10 Sep 2022</p>
+                                <p>মালেশিয়ার কুয়ালালামপুরে তেরেঙ্গানু নামক অঞ্চলে এক নারীর দেহে পৃথিবীর দুর্লভ এক গ্রুপের রক্ত ❝গোল্ডেন ব্লাড❞ পাওয়া গিয়েছে। এই সোনালী রক্ত বা গোল্ডেন ব্লাডকে Rh...</p>
+                            </div>
+                            <a class="button theme-bg" href="https://roktobondhu.com/blog/golden-blood-reserved-for-10-years/">বিস্তারিত...</a>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-lg-4 col-md-6">
+                    <div class="single-causes mb-30">
+                        <a href="https://roktobondhu.com/blog/golden-blood-%e0%a6%b8%e0%a7%8b%e0%a6%a8%e0%a6%be%e0%a6%b2%e0%a6%bf-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4/">
+                        	<img width="1371" height="720" src="https://roktobondhu.com/blog/wp-content/uploads/2022/09/Golden-blood.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://roktobondhu.com/blog/wp-content/uploads/2022/09/Golden-blood.jpg 1371w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/Golden-blood-300x158.jpg 300w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/Golden-blood-1024x538.jpg 1024w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/Golden-blood-768x403.jpg 768w" sizes="(max-width: 1371px) 100vw, 1371px" />                        </a>
+                        <div class="causes-info">
+                            <div class="bcontent">
+                                <h3><a href="https://roktobondhu.com/blog/golden-blood-%e0%a6%b8%e0%a7%8b%e0%a6%a8%e0%a6%be%e0%a6%b2%e0%a6%bf-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4/">Golden Blood বা সোনালি রক্ত</a></h3>
+                                <p class="post_date">Author: রক্তবন্ধু |  10 Sep 2022</p>
+                                <p>ব্লাড ফ্যাক্ট || Rh null - রক্তবন্ধু পৃথিবীতে বিরল একটি রক্তের গ্রুপ হলো Rh null বা আরএইচ শূন্য। যাকে "গোল্ডেন ব্লাড" বা স্বর্ণ রক্ত...</p>
+                            </div>
+                            <a class="button theme-bg" href="https://roktobondhu.com/blog/golden-blood-%e0%a6%b8%e0%a7%8b%e0%a6%a8%e0%a6%be%e0%a6%b2%e0%a6%bf-%e0%a6%b0%e0%a6%95%e0%a7%8d%e0%a6%a4/">বিস্তারিত...</a>
+                        </div>
+                    </div>
+                </div>
+                                <div class="col-lg-4 col-md-6">
+                    <div class="single-causes mb-30">
+                        <a href="https://roktobondhu.com/blog/%e0%a6%8f%e0%a6%95%e0%a6%9c%e0%a6%a8-%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a6%ac%e0%a6%bf%e0%a6%95-%e0%a6%aa%e0%a7%81%e0%a6%b2%e0%a6%bf%e0%a6%b6-%e0%a6%b8%e0%a6%a6%e0%a6%b8%e0%a7%8d%e0%a6%af/">
+                        	<img width="1734" height="910" src="https://roktobondhu.com/blog/wp-content/uploads/2022/09/Khairul-islam-B.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://roktobondhu.com/blog/wp-content/uploads/2022/09/Khairul-islam-B.jpg 1734w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/Khairul-islam-B-300x157.jpg 300w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/Khairul-islam-B-1024x537.jpg 1024w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/Khairul-islam-B-768x403.jpg 768w, https://roktobondhu.com/blog/wp-content/uploads/2022/09/Khairul-islam-B-1536x806.jpg 1536w" sizes="(max-width: 1734px) 100vw, 1734px" />                        </a>
+                        <div class="causes-info">
+                            <div class="bcontent">
+                                <h3><a href="https://roktobondhu.com/blog/%e0%a6%8f%e0%a6%95%e0%a6%9c%e0%a6%a8-%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a6%ac%e0%a6%bf%e0%a6%95-%e0%a6%aa%e0%a7%81%e0%a6%b2%e0%a6%bf%e0%a6%b6-%e0%a6%b8%e0%a6%a6%e0%a6%b8%e0%a7%8d%e0%a6%af/">একজন মানবিক পুলিশ সদস্যের রক্তদানের সুখকর অভিজ্ঞতা</a></h3>
+                                <p class="post_date">Author: রক্তবন্ধু |  04 Sep 2022</p>
+                                <p>আমি খাইররুল ইসলাম, একজন পুলিশ সদস্য। গতকাল আমার ডিউটি ছিল কলেজ গেইট। ফোন হাতে নিয়ে ফেইসবুকে দেখি রক্তের পোষ্ট। এইবার রক্ত দেওয়ার ইচ্ছে ছিল...</p>
+                            </div>
+                            <a class="button theme-bg" href="https://roktobondhu.com/blog/%e0%a6%8f%e0%a6%95%e0%a6%9c%e0%a6%a8-%e0%a6%ae%e0%a6%be%e0%a6%a8%e0%a6%ac%e0%a6%bf%e0%a6%95-%e0%a6%aa%e0%a7%81%e0%a6%b2%e0%a6%bf%e0%a6%b6-%e0%a6%b8%e0%a6%a6%e0%a6%b8%e0%a7%8d%e0%a6%af/">বিস্তারিত...</a>
+                        </div>
+                    </div>
+                </div>
+                            </div>
+
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <div class="page-pagintion mt-20">
+                    	
+	<nav class="navigation pagination" aria-label="&nbsp;">
+		<h2 class="screen-reader-text">&nbsp;</h2>
+		<div class="nav-links"><span aria-current="page" class="page-numbers current">1</span>
+<a class="page-numbers" href="https://roktobondhu.com/blog/page/2/">2</a>
+<a class="page-numbers" href="https://roktobondhu.com/blog/page/3/">3</a>
+<span class="page-numbers dots">&hellip;</span>
+<a class="page-numbers" href="https://roktobondhu.com/blog/page/19/">19</a>
+<a class="next page-numbers" href="https://roktobondhu.com/blog/page/2/"><i class="fa fa-angle-right"></i></a></div>
+	</nav>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+	<div class="main-footer">
+		<!-- Start Notice Area -->
+		<section class="notice-area"> 
+			<div class="container"> 
+				<div class="row"> 
+					<div class="col-xl-12"> 
+						<div class="notice_bord text-center"> 
+						 
+						<p><span>নোটিশঃ</span> আমাদের সাথে কাজ করতে চাইলে বা যে কোনো প্রয়োজনে যোগাযোগ করুন <a href="tel:01716626487"><span class="engFont"> 01716626487 </span></a></p>
+						<p><a class="text-black btn-btn-danger" target="_blank" href="/details"><span class="eng"></span></a> <a class="btn btn-danger" target="_blank" href="/details">রক্তবন্ধু সম্পর্কে  বিস্তারিত জানতে ক্লিক করুন </a> </p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>		
+		<!-- End Notice Area -->
+		
+		<!-- Start Footer ARea -->
+		<footer class="footer-area"> 
+			<div class="container"> 
+				<div class="row"> 
+					<div class="col-xl-6 col-md-6 col-sm-6 col-12"> 
+						<div class="footer-left"> 
+							<p>© 2018-2022 রক্তবন্ধু || all Right reserved </p>
+						</div>
+					</div>
+					<div class="col-xl-6 col-md-6 col-sm-6 col-12"> 
+						<div class="footer-right"> 
+							<p> Developed By <a target="_blank" href="https://coderitsolution.com/"> Coder IT Solution</a></p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>	
+		<!-- Rnd Footer ARea -->
+	</div>
+	</div>
+
+		<div id="wpcp-error-message" class="msgmsg-box-wpcp hideme"><span>error: </span>roktobondhu.com</div>
+	<script>
+	var timeout_result;
+	function show_wpcp_message(smessage)
+	{
+		if (smessage !== "")
+			{
+			var smessage_text = '<span>Alert: </span>'+smessage;
+			document.getElementById("wpcp-error-message").innerHTML = smessage_text;
+			document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp showme";
+			clearTimeout(timeout_result);
+			timeout_result = setTimeout(hide_message, 3000);
+			}
+	}
+	function hide_message()
+	{
+		document.getElementById("wpcp-error-message").className = "msgmsg-box-wpcp warning-wpcp hideme";
+	}
+	</script>
+		<style type="text/css">
+	#wpcp-error-message {
+	    direction: ltr;
+	    text-align: center;
+	    transition: opacity 900ms ease 0s;
+	    z-index: 99999999;
+	}
+	.hideme {
+    	opacity:0;
+    	visibility: hidden;
+	}
+	.showme {
+    	opacity:1;
+    	visibility: visible;
+	}
+	.msgmsg-box-wpcp {
+		border:1px solid #f5aca6;
+		border-radius: 10px;
+		color: #555;
+		font-family: Tahoma;
+		font-size: 11px;
+		margin: 10px;
+		padding: 10px 36px;
+		position: fixed;
+		width: 255px;
+		top: 50%;
+  		left: 50%;
+  		margin-top: -10px;
+  		margin-left: -130px;
+  		-webkit-box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+		-moz-box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+		box-shadow: 0px 0px 34px 2px rgba(242,191,191,1);
+	}
+	.msgmsg-box-wpcp span {
+		font-weight:bold;
+		text-transform:uppercase;
+	}
+		.warning-wpcp {
+		background:#ffecec url('https://roktobondhu.com/blog/wp-content/plugins/wp-content-copy-protector/images/warning.png') no-repeat 10px 50%;
+	}
+    </style>
+		<!-- Google Tag Manager (noscript) snippet added by Site Kit -->
+		<noscript>
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TLXG9B8" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) snippet added by Site Kit -->
+			<div id="fb-root"></div>
+	<script type='text/javascript' src='https://roktobondhu.com/blog/wp-content/themes/roktobondhu/assets/js/popper.js?ver=1.1' id='popper-js'></script>
+<script type='text/javascript' src='https://roktobondhu.com/blog/wp-content/themes/roktobondhu/assets/js/bootstrap.min.js?ver=1.1' id='bootstrap-js'></script>
+<script type='text/javascript' src='https://roktobondhu.com/blog/wp-content/themes/roktobondhu/assets/js/vendor/modernizr-3.5.0.min.js?ver=1.1' id='modernizr-js'></script>
+<script type='text/javascript' src='https://roktobondhu.com/blog/wp-content/themes/roktobondhu/assets/js/custom.js?ver=1.1' id='scripts-js'></script>
+<script type='text/javascript' src='https://roktobondhu.com/blog/wp-content/plugins/super-socializer/js/front/social_login/general.js?ver=7.13.30' id='the_champ_ss_general_scripts-js'></script>
+<script type='text/javascript' src='https://roktobondhu.com/blog/wp-content/plugins/super-socializer/js/front/facebook/sdk.js?ver=7.13.30' id='the_champ_fb_sdk-js'></script>
+<script type='text/javascript' src='https://roktobondhu.com/blog/wp-content/plugins/super-socializer/js/front/facebook/commenting.js?ver=7.13.30' id='the_champ_fb_commenting-js'></script>
+<script type='text/javascript' src='https://roktobondhu.com/blog/wp-content/plugins/super-socializer/js/front/sharing/sharing.js?ver=7.13.30' id='the_champ_share_counts-js'></script>
+    </body>
+</html>
